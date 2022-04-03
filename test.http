@@ -1,0 +1,2 @@
+GET https://api.github.com/repos/zixing8284/add-bookmark/contents/bookmarks.json HTTP/1.1
+Accept: application/vnd.github.v3+json
